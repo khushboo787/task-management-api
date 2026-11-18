@@ -22,7 +22,7 @@ This To-Do List application is designed to help users manage their tasks effecti
  **Clone the repository:**
 
 ```
-git clone https://github.com/khushboo787/Hyperface-Task
+git clone https://github.com/khushboo787/task-management-api.git
 ```
 
 
