@@ -1,4 +1,3 @@
-# Hyperface-Task
 
 # To-Do List Application
 
